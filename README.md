@@ -1,5 +1,5 @@
 # prasham-demo
 This is my first repository
 <br>
-Author - Prasham Jain
+Author - Prasham Kumar Jain
 
